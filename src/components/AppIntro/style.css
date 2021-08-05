@@ -1,0 +1,10 @@
+.weathercontainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.weathercontainer img{
+    width: 300px;
+    height: 300px;
+}
