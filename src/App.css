@@ -2,11 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 .App{
     height: 100vh;
+    color: #f9eceb;
     color: #494173;
-    background-color: #E2EAFD;
-    font-family: 'Itim', cursive;
     font-family: 'Lobster', cursive;
-}
-.weathercontainer{
-    background-color: red;
 }
